@@ -1,2 +1,6 @@
-# test
-Just a temporary repository to learn and experiment git 
+# Test
+Hello
+Hello
+Hellooooo
+
+Git Testing 1,2,3
